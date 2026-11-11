@@ -1,3 +1,14 @@
+> **CultureReset fork of [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop).** Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** LGPL-3.0, from upstream. For updates and issues, use [upstream](https://github.com/vastsa/PI-Desktop).
+>
+> The upstream README follows unchanged.
+
+---
+
 <div align="center">
 
 <img src="docs/image/readme/logo.png" alt="PI-Desktop" width="108" />
